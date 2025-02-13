@@ -22,7 +22,8 @@ I'm a passionate student and web developer from India, with a heart that beats f
   <!-- You can add more projects -->
 </details>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31e53lkwnl43mzymv42vudlewfmy&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=4dff00&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31e53lkwnl43mzymv42vudlewfmy&redirect=true)
+🎧 Currently listening to<br>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31e53lkwnl43mzymv42vudlewfmy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31e53lkwnl43mzymv42vudlewfmy&redirect=true)
 
 
 📊 **GitHub Stats:**  
