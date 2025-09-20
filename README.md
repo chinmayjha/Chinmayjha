@@ -22,9 +22,6 @@ I'm a passionate student and web developer from India, with a heart that beats f
   <!-- You can add more projects -->
 </details>
 
-🎧 Currently listening to<br>
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31e53lkwnl43mzymv42vudlewfmy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31e53lkwnl43mzymv42vudlewfmy&redirect=true))
-
 
 📊 **GitHub Stats:**  
 ![Chinmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=chinmayjha&show_icons=true&theme=radical)
