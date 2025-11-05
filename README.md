@@ -1,58 +1,246 @@
-# Hi there! 👋 I'm Chinmay Jha
-
-I'm a passionate student and web developer from India, with a heart that beats for HTML, CSS, and JavaScript. My coding journey is all about creating digital wonders, where every line of code paints the canvas of innovation and passion.
-
-🌐 **Website:** [chinmayjha.tech](https://chinmayjha.tech)
-
-📧 **Email:** [chinmayjha2021@gmail.com](mailto:chinmayjha2021@gmail.com)
-
-🔭 **Projects:** Check out some of my projects:
-
-<details>
-  <summary>Click to view projects</summary>
+<div align="center">
   
-  - [Responsive Landing Page](https://github.com/chinmayjha/Responsive-Landing-Page)
-  - [Responsive Navigation Bar](https://github.com/chinmayjha/Responsive-navigation-bar)
-  - [Google Clone](https://github.com/chinmayjha/Google-clone)
-  - [Netflix Login Page Clone](https://github.com/chinmayjha/Netflix-login-page-clone)
-  - [Technoblade Tribute](https://github.com/chinmayjha/Technoblade-Tribute)
-  - [Live date and Time](https://github.com/chinmayjha/Live-time)
-  - 🌟 [Explore more projects on GitHub](https://github.com/chinmayjha?tab=repositories) 🌟
-  - ✨ [View my CodePen projects](https://codepen.io/itschinmayjha) ✨
-  <!-- You can add more projects -->
-</details>
+# 👋 Hi, I'm Chinmay Jha
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Web+Developer;Creative+Problem+Solver;UI%2FUX+Enthusiast;Open+Source+Contributor)](https://git.io/typing-svg)
 
-📊 **GitHub Stats:**  
-![Chinmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=chinmayjha&show_icons=true&theme=radical)
+<p align="center">
+  <em>Passionate student and web developer from India 🇮🇳</em><br>
+  <em>Creating digital wonders, one line of code at a time ✨</em>
+</p>
 
-📈 **Top Languages:**  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chinmayjha&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Website](https://img.shields.io/badge/Website-chinmayjha.tech-4B0082?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chinmayjha.tech)
+[![Email](https://img.shields.io/badge/Email-chinmayjha2021%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chinmayjha2021@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-@itschinmayjha-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/itschinmayjha)
+[![Telegram](https://img.shields.io/badge/Telegram-@chinmayjha-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/chinmayjha)
+[![CodePen](https://img.shields.io/badge/CodePen-itschinmayjha-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/itschinmayjha)
 
-🔥 **GitHub Streak:**  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chinmayjha&theme=tokyonight&hide_border=false)
+![Profile Views](https://visitcount.itsvg.in/api?id=chinmayjha&label=Profile%20Views&color=6366f1&icon=5&pretty=true)
 
-👨‍💻 **GitHub Profile Visit Count:**  
-![Total Visitors](https://visitcount.itsvg.in/api?id=Chinmay&label=Total%20Visitors&color=8&icon=2&pretty=true)
+</div>
 
-🐦 **Twitter:** Connect with me on [Twitter](https://twitter.com/itschinmayjha)
+---
 
-🤖 **Telegram:** Reach out to me on [Telegram](https://t.me/chinmayjha)
+## 🚀 About Me
 
-☕ **Support:** If you like my work and want to support me, consider buying me a coffee ☕️ on [Buy Me a Coffee](https://buymeacoffee.com/chinmayjha)
+```javascript
+const chinmay = {
+    location: "India 🇮🇳",
+    role: "Full Stack Web Developer",
+    education: "Computer Science Student",
+    passions: ["Web Development", "UI/UX Design", "Open Source"],
+    currentFocus: "Building responsive and beautiful web applications",
+    funFact: "Every line of code is a brushstroke on the canvas of innovation",
+    lifePhilosophy: "Code with passion, create with purpose",
+    availability: "Open for collaborations and exciting projects"
+};
+```
 
-## Tech Softwares & Languages
+## 💻 Tech Stack
 
-### Preferred Tech Softwares
-[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+<div align="center">
 
-### Skills & Technologies
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+### 🎨 Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-Feel free to drop me an email at [chinmayjha2021@gmail.com](mailto:chinmayjha2021@gmail.com) for any inquiries or collaborations!
+### ⚙️ Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🛠️ Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">🎲 Random Number Generator</h3>
+<div align="center">
+<a href="https://github.com/chinmayjha/Random-Number-Generator" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=chinmayjha&repo=Random-Number-Generator&theme=tokyonight&hide_border=true" alt="Random Number Generator"/>
+</a>
+<p><strong>CSS, HTML, JavaScript</strong> - A modern, responsive web application for generating random numbers with a beautiful interface</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">🌤️ Weather App</h3>
+<div align="center">
+<a href="https://github.com/chinmayjha/Weather-App" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=chinmayjha&repo=Weather-App&theme=tokyonight&hide_border=true" alt="Weather App"/>
+</a>
+<p><strong>CSS, HTML, JavaScript</strong> - Modern weather application UI with clean design and responsive layout</p>
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">⏱️ Aesthetic Stopwatch</h3>
+<div align="center">
+<a href="https://github.com/chinmayjha/Aesthetic-Stopwatch" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=chinmayjha&repo=Aesthetic-Stopwatch&theme=tokyonight&hide_border=true" alt="Aesthetic Stopwatch"/>
+</a>
+<p><strong>CSS, HTML, JavaScript</strong> - Beautiful glassmorphic stopwatch with lap tracking and custom themes</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">🎵 Lyrics Card Generator</h3>
+<div align="center">
+<a href="https://github.com/chinmayjha/LyricsCard" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=chinmayjha&repo=LyricsCard&theme=tokyonight&hide_border=true" alt="LyricsCard"/>
+</a>
+<p><strong>CSS, HTML, JavaScript</strong> - Create stunning Spotify-style lyrics cards with cutting-edge design</p>
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">🎮 Fan Simulator Game</h3>
+<div align="center">
+<a href="https://github.com/chinmayjha/Fan-Simulator-Game" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=chinmayjha&repo=Fan-Simulator-Game&theme=tokyonight&hide_border=true" alt="Fan Simulator"/>
+</a>
+<p><strong>JavaScript, HTML, CSS</strong> - An interactive and fun ceiling fan simulation game</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">🧭 Responsive Navigation Bar</h3>
+<div align="center">
+<a href="https://github.com/chinmayjha/Responsive-navigation-bar" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=chinmayjha&repo=Responsive-navigation-bar&theme=tokyonight&hide_border=true" alt="Responsive Nav"/>
+</a>
+<p><strong>CSS, HTML, JavaScript</strong> - Navigation bar with mobile and Day/Night mode support</p>
+</div>
+</td>
+</tr>
+</table>
+
+### 🔥 More Cool Projects
+[![Netflix Clone](https://img.shields.io/badge/Netflix_Login_Clone-E50914?style=for-the-badge&logo=netflix&logoColor=white)](https://github.com/chinmayjha/Netflix-login-page-clone)
+[![Google Clone](https://img.shields.io/badge/Google_Clone-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://github.com/chinmayjha/Google-clone)
+[![Technoblade Tribute](https://img.shields.io/badge/Technoblade_Tribute-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/chinmayjha/Technoblade-Tribute)
+[![Live Time](https://img.shields.io/badge/Live_Time_Display-00C7B7?style=for-the-badge&logo=clockify&logoColor=white)](https://github.com/chinmayjha/Live-time)
+
+<a href="https://github.com/chinmayjha?tab=repositories" target="_blank">
+<img src="https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories"/>
+</a>
+
+</div>
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+_Blog posts will be automatically updated here..._
+<!-- BLOG-POST-LIST:END -->
+
+<div align="center">
+  
+[![Blog](https://img.shields.io/badge/Read_More_on_My_Blog-chinmayjha.tech-6366F1?style=for-the-badge&logo=hashnode&logoColor=white)](https://chinmayjha.tech/blog)
+
+</div>
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=chinmayjha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&count_private=true" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=chinmayjha&theme=tokyonight&hide_border=true&background=1a1b27&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="GitHub Streak"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmayjha&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6366f1&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=chinmayjha&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=6366f1&line=6366f1&point=c9d1d9" alt="Activity Graph"/>
+
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=chinmayjha&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+## 🎯 Current Focus
+
+```mermaid
+mindmap
+  root((Chinmay))
+    Web Development
+      Frontend
+        React
+        Tailwind CSS
+        Modern UI/UX
+      Backend
+        Node.js
+        APIs
+        Database Design
+    Learning
+      Advanced JavaScript
+      TypeScript
+      Cloud Services
+    Projects
+      Open Source
+      Personal Portfolio
+      Innovative Ideas
+    Goals
+      Build Amazing Projects
+      Contribute to Community
+      Master Full Stack
+```
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+I'm always excited to connect with fellow developers, collaborate on projects, or just have a chat about technology and innovation!
+
+[![Portfolio](https://img.shields.io/badge/🌐_Website-chinmayjha.tech-6366F1?style=for-the-badge)](https://chinmayjha.tech)
+[![Email](https://img.shields.io/badge/📧_Email-chinmayjha2021@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chinmayjha2021@gmail.com)
+[![Twitter](https://img.shields.io/badge/🐦_Twitter-@itschinmayjha-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/itschinmayjha)
+[![Telegram](https://img.shields.io/badge/✈️_Telegram-@chinmayjha-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/chinmayjha)
+[![CodePen](https://img.shields.io/badge/✏️_CodePen-itschinmayjha-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/itschinmayjha)
+
+### ☕ Support My Work
+
+If you like what I do and want to support my work, consider buying me a coffee!
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-☕_Support_My_Work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/chinmayjha)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💭 Quote of the Day
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🎵 Now Playing
+
+[![Spotify](https://spotify-github-readme-ebon.vercel.app/api/spotify)](https://open.spotify.com/user/31qlmwqn7dcjrx3rmfwuvpjpxaaa)
+
+<p>
+  <em>"The best way to predict the future is to create it."</em>
+</p>
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+---
+
+**⭐ From [chinmayjha](https://github.com/chinmayjha) with 💜**
+
+</div>
