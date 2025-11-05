@@ -74,7 +74,7 @@ const chinmay = {
 <a href="https://github.com/chinmayjha/Random-Number-Generator" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=chinmayjha&repo=Random-Number-Generator&theme=tokyonight&hide_border=true" alt="Random Number Generator"/>
 </a>
-<p><strong>CSS, HTML, JavaScript</strong> - A modern, responsive web application for generating random numbers with a beautiful interface</p>
+<p><strong>HTML, CSS, JavaScript</strong> - A modern, responsive web application for generating random numbers with a beautiful interface</p>
 </div>
 </td>
 <td width="50%">
@@ -83,7 +83,7 @@ const chinmay = {
 <a href="https://github.com/chinmayjha/Weather-App" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=chinmayjha&repo=Weather-App&theme=tokyonight&hide_border=true" alt="Weather App"/>
 </a>
-<p><strong>CSS, HTML, JavaScript</strong> - Modern weather application UI with clean design and responsive layout</p>
+<p><strong>HTML, CSS, JavaScript</strong> - Modern weather application UI with clean design and responsive layout</p>
 </div>
 </td>
 </tr>
@@ -94,7 +94,7 @@ const chinmay = {
 <a href="https://github.com/chinmayjha/Aesthetic-Stopwatch" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=chinmayjha&repo=Aesthetic-Stopwatch&theme=tokyonight&hide_border=true" alt="Aesthetic Stopwatch"/>
 </a>
-<p><strong>CSS, HTML, JavaScript</strong> - Beautiful glassmorphic stopwatch with lap tracking and custom themes</p>
+<p><strong>HTML, CSS, JavaScript</strong> - Beautiful glassmorphic stopwatch with lap tracking and custom themes</p>
 </div>
 </td>
 <td width="50%">
@@ -103,7 +103,7 @@ const chinmay = {
 <a href="https://github.com/chinmayjha/LyricsCard" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=chinmayjha&repo=LyricsCard&theme=tokyonight&hide_border=true" alt="LyricsCard"/>
 </a>
-<p><strong>CSS, HTML, JavaScript</strong> - Create stunning Spotify-style lyrics cards with cutting-edge design</p>
+<p><strong>HTML, CSS, JavaScript</strong> - Create stunning Spotify-style lyrics cards with cutting-edge design</p>
 </div>
 </td>
 </tr>
@@ -123,7 +123,7 @@ const chinmay = {
 <a href="https://github.com/chinmayjha/Responsive-navigation-bar" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=chinmayjha&repo=Responsive-navigation-bar&theme=tokyonight&hide_border=true" alt="Responsive Nav"/>
 </a>
-<p><strong>CSS, HTML, JavaScript</strong> - Navigation bar with mobile and Day/Night mode support</p>
+<p><strong>HTML, CSS, JavaScript</strong> - Navigation bar with mobile and Day/Night mode support</p>
 </div>
 </td>
 </tr>
@@ -236,8 +236,6 @@ If you like what I do and want to support my work, consider buying me a coffee!
 <p>
   <em>"The best way to predict the future is to create it."</em>
 </p>
-
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=chinmayjha&theme=tokyo-night&hide_border=true&area=true)
 
 ---
 
