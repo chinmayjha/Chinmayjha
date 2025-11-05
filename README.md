@@ -10,7 +10,7 @@
 </p>
 
 [![Website](https://img.shields.io/badge/Website-chinmayjha.tech-4B0082?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chinmayjha.tech)
-[![Email](https://img.shields.io/badge/Email-chinmayjha2021%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chinmayjha2021@gmail.com)
+[![Email](https://img.shields.io/badge/Email-contact%40chinmayjha.tech-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@chinmayjha.tech)
 [![Twitter](https://img.shields.io/badge/Twitter-@itschinmayjha-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/itschinmayjha)
 [![Telegram](https://img.shields.io/badge/Telegram-@chinmayjha-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/chinmayjha)
 [![CodePen](https://img.shields.io/badge/CodePen-itschinmayjha-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/itschinmayjha)
@@ -208,7 +208,7 @@ mindmap
 I'm always excited to connect with fellow developers, collaborate on projects, or just have a chat about technology and innovation!
 
 [![Portfolio](https://img.shields.io/badge/🌐_Website-chinmayjha.tech-6366F1?style=for-the-badge)](https://chinmayjha.tech)
-[![Email](https://img.shields.io/badge/📧_Email-chinmayjha2021@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chinmayjha2021@gmail.com)
+[![Email](https://img.shields.io/badge/📧_Email-contact@chinmayjha.tech-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@chinmayjha.tech)
 [![Twitter](https://img.shields.io/badge/🐦_Twitter-@itschinmayjha-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/itschinmayjha)
 [![Telegram](https://img.shields.io/badge/✈️_Telegram-@chinmayjha-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/chinmayjha)
 [![CodePen](https://img.shields.io/badge/✏️_CodePen-itschinmayjha-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/itschinmayjha)
@@ -231,7 +231,7 @@ If you like what I do and want to support my work, consider buying me a coffee!
 
 ### 🎵 Now Playing
 
-[![Spotify](https://spotify-github-readme-ebon.vercel.app/api/spotify)](https://open.spotify.com/user/31qlmwqn7dcjrx3rmfwuvpjpxaaa)
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31e53lkwnl43mzymv42vudlewfmy&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=true)](https://open.spotify.com/user/31e53lkwnl43mzymv42vudlewfmy)
 
 <p>
   <em>"The best way to predict the future is to create it."</em>
