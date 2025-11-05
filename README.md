@@ -15,7 +15,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-@chinmayjha-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/chinmayjha)
 [![CodePen](https://img.shields.io/badge/CodePen-itschinmayjha-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/itschinmayjha)
 
-![Profile Views](https://visitcount.itsvg.in/api?id=chinmayjha&label=Profile%20Views&color=6366f1&icon=5&pretty=true)
+![Profile Views](https://komarev.com/ghpvc/?username=chinmayjha&label=Profile%20Views&color=6366f1&style=for-the-badge)
 
 </div>
 
@@ -143,10 +143,20 @@ const chinmay = {
 
 ## 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->- [Agentic AI &amp; the Future of Coding: When Software Becomes the Decision Maker](https://chinmayjha.tech/blog/agentic-ai-future-coding/)- [Top Software Development Trends in 2025: What You Can&#39;t Ignore](https://chinmayjha.tech/blog/software-development-trends-2025/)- [Hardware Scaling in the AI Era: From More Transistors to Smart Chips](https://chinmayjha.tech/blog/hardware-scaling-ai-era/)- [Vibe Coding, Prompt Engineering &amp; the New Ways to Write Software](https://chinmayjha.tech/blog/vibe-coding-prompt-engineering/)- [From Cloud to Edge: Software Architecture for Low Latency &amp; Real-Time Systems](https://chinmayjha.tech/blog/cloud-to-edge-architecture/)<!-- BLOG-POST-LIST:END -->
-
 <div align="center">
-  
+
+### ✨ Recent Articles from My Blog
+
+<!-- BLOG-POST-LIST:START -->
+- [Agentic AI &amp; the Future of Coding: When Software Becomes the Decision Maker](https://chinmayjha.tech/blog/agentic-ai-future-coding/)
+- [Top Software Development Trends in 2025: What You Can&#39;t Ignore](https://chinmayjha.tech/blog/software-development-trends-2025/)
+- [Hardware Scaling in the AI Era: From More Transistors to Smart Chips](https://chinmayjha.tech/blog/hardware-scaling-ai-era/)
+- [Vibe Coding, Prompt Engineering &amp; the New Ways to Write Software](https://chinmayjha.tech/blog/vibe-coding-prompt-engineering/)
+- [From Cloud to Edge: Software Architecture for Low Latency &amp; Real-Time Systems](https://chinmayjha.tech/blog/cloud-to-edge-architecture/)
+<!-- BLOG-POST-LIST:END -->
+
+<br>
+
 [![Blog](https://img.shields.io/badge/Read_More_on_My_Blog-chinmayjha.tech-6366F1?style=for-the-badge&logo=hashnode&logoColor=white)](https://chinmayjha.tech/blog)
 
 </div>
@@ -156,7 +166,7 @@ const chinmay = {
 <div align="center">
   
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=chinmayjha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&count_private=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=chinmayjha&theme=tokyonight&hide_border=true&background=1a1b27&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="GitHub Streak"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=chinmayjha&theme=tokyonight&hide_border=true&background=1a1b27&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="GitHub Streak"/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmayjha&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6366f1&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=chinmayjha&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=6366f1&line=6366f1&point=c9d1d9" alt="Activity Graph"/>
@@ -237,6 +247,6 @@ If you like what I do and want to support my work, consider buying me a coffee!
 
 ---
 
-**⭐ From [chinmayjha](https://github.com/chinmayjha) with 💜**
+**Made with ♥ by Chinmay**
 
 </div>
