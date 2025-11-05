@@ -21,7 +21,7 @@ jobs:
         with:
           feed_list: "https://chinmayjha.tech/blog/feed.xml"
           max_post_count: 5
-          template: "- [$title]($url) - $newline"
+          template: "- [$title]($url) - $date"
           date_format: "mmm dd, yyyy"
           committer_username: "blog-bot"
           committer_email: "blog-bot@chinmayjha.tech"

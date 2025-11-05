@@ -237,7 +237,7 @@ If you like what I do and want to support my work, consider buying me a coffee!
   <em>"The best way to predict the future is to create it."</em>
 </p>
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=chinmayjha&theme=tokyo-night&hide_border=true&area=true)
 
 ---
 
