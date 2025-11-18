@@ -2,6 +2,7 @@ name: Latest Blog Post Workflow
 
 on:
   schedule:
+    # Runs every day at midnight UTC
     - cron: '0 0 * * *'
   workflow_dispatch:
 
@@ -16,13 +17,15 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      
+
       - name: Pull in blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://chinmayjha.tech/blog/feed.xml"
           max_post_count: 5
-          template: "- 📝 [$title]($url)<br><br>"
+          # Use an HTML anchor so links render properly inside your <div> blocks
+          template: |
+            - 📝 <a href="$url">$title</a><br>
           date_format: "mmm dd, yyyy"
           committer_username: "blog-bot"
           committer_email: "contact@chinmayjha.tech"
