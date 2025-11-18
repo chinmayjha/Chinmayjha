@@ -149,7 +149,7 @@ const chinmay = {
 
 <div align="left" style="margin: 0 auto; max-width: 800px;">
 
-<!-- BLOG-POST-LIST:START -->- 📝 [Agentic AI &amp; the Future of Coding: When Software Becomes the Decision Maker](https://chinmayjha.tech/blog/agentic-ai-future-coding/)- 📝 [Top Software Development Trends in 2025: What You Can&#39;t Ignore](https://chinmayjha.tech/blog/software-development-trends-2025/)- 📝 [Hardware Scaling in the AI Era: From More Transistors to Smart Chips](https://chinmayjha.tech/blog/hardware-scaling-ai-era/)- 📝 [Vibe Coding, Prompt Engineering &amp; the New Ways to Write Software](https://chinmayjha.tech/blog/vibe-coding-prompt-engineering/)- 📝 [From Cloud to Edge: Software Architecture for Low Latency &amp; Real-Time Systems](https://chinmayjha.tech/blog/cloud-to-edge-architecture/)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- 📝 [Agentic AI &amp; the Future of Coding: When Software Becomes the Decision Maker](https://chinmayjha.tech/blog/agentic-ai-future-coding/)<br><br>- 📝 [Top Software Development Trends in 2025: What You Can&#39;t Ignore](https://chinmayjha.tech/blog/software-development-trends-2025/)<br><br>- 📝 [Hardware Scaling in the AI Era: From More Transistors to Smart Chips](https://chinmayjha.tech/blog/hardware-scaling-ai-era/)<br><br>- 📝 [Vibe Coding, Prompt Engineering &amp; the New Ways to Write Software](https://chinmayjha.tech/blog/vibe-coding-prompt-engineering/)<br><br>- 📝 [From Cloud to Edge: Software Architecture for Low Latency &amp; Real-Time Systems](https://chinmayjha.tech/blog/cloud-to-edge-architecture/)<br><br><!-- BLOG-POST-LIST:END -->
 
 </div>
 
