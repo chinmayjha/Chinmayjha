@@ -9,8 +9,8 @@
   <em>Creating digital wonders, one line of code at a time ✨</em>
 </p>
 
-[![Website](https://img.shields.io/badge/Website-chinmayjha.tech-4B0082?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chinmayjha.tech)
-[![Email](https://img.shields.io/badge/Email-contact%40chinmayjha.tech-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@chinmayjha.tech)
+[![Website](https://img.shields.io/badge/Website-chinmayjha.github.io-4B0082?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chinmayjha.github.io)
+[![Email](https://img.shields.io/badge/Email-chinmayjha2021@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chinmayjha2021@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-@itschinmayjha-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/itschinmayjha)
 [![Telegram](https://img.shields.io/badge/Telegram-@chinmayjha-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/chinmayjha)
 [![CodePen](https://img.shields.io/badge/CodePen-itschinmayjha-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/itschinmayjha)
@@ -24,7 +24,7 @@
 ## 🚀 About Me
 
 ```javascript
-const chinmay = {
+const Chinmay = {
     location: "India 🇮🇳",
     role: "Full Stack Web Developer",
     education: "Computer Science Student",
@@ -149,13 +149,13 @@ const chinmay = {
 
 <div align="left" style="margin: 0 auto; max-width: 800px;">
 
-<!-- BLOG-POST-LIST:START -->- 📝 <a href="https://chinmayjha.tech/blog/agentic-ai-future-coding/">Agentic AI &amp; the Future of Coding: When Software Becomes the Decision Maker</a><br>- 📝 <a href="https://chinmayjha.tech/blog/software-development-trends-2025/">Top Software Development Trends in 2025: What You Can&#39;t Ignore</a><br>- 📝 <a href="https://chinmayjha.tech/blog/hardware-scaling-ai-era/">Hardware Scaling in the AI Era: From More Transistors to Smart Chips</a><br>- 📝 <a href="https://chinmayjha.tech/blog/vibe-coding-prompt-engineering/">Vibe Coding, Prompt Engineering &amp; the New Ways to Write Software</a><br>- 📝 <a href="https://chinmayjha.tech/blog/cloud-to-edge-architecture/">From Cloud to Edge: Software Architecture for Low Latency &amp; Real-Time Systems</a><br><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- 📝 <a href="https://chinmayjha.github.io/blog/agentic-ai-future-coding/">Agentic AI &amp; the Future of Coding: When Software Becomes the Decision Maker</a><br>- 📝 <a href="https://chinmayjha.github.io/blog/software-development-trends-2025/">Top Software Development Trends in 2025: What You Can&#39;t Ignore</a><br>- 📝 <a href="https://chinmayjha.github.io/blog/hardware-scaling-ai-era/">Hardware Scaling in the AI Era: From More Transistors to Smart Chips</a><br>- 📝 <a href="https://chinmayjha.github.io/blog/vibe-coding-prompt-engineering/">Vibe Coding, Prompt Engineering &amp; the New Ways to Write Software</a><br>- 📝 <a href="https://chinmayjha.github.io/blog/cloud-to-edge-architecture/">From Cloud to Edge: Software Architecture for Low Latency &amp; Real-Time Systems</a><br><!-- BLOG-POST-LIST:END -->
 
 </div>
 
 <br>
 
-[![Blog](https://img.shields.io/badge/Read_More_on_My_Blog-chinmayjha.tech-6366F1?style=for-the-badge&logo=hashnode&logoColor=white)](https://chinmayjha.tech/blog)
+[![Blog](https://img.shields.io/badge/Read_More_on_My_Blog-chinmayjha.github.io-6366F1?style=for-the-badge&logo=hashnode&logoColor=white)](https://chinmayjha.github.io/blog)
 
 </div>
 
@@ -213,8 +213,8 @@ mindmap
 
 I'm always excited to connect with fellow developers, collaborate on projects, or just have a chat about technology and innovation!
 
-[![Portfolio](https://img.shields.io/badge/🌐_Website-chinmayjha.tech-6366F1?style=for-the-badge)](https://chinmayjha.tech)
-[![Email](https://img.shields.io/badge/📧_Email-contact@chinmayjha.tech-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@chinmayjha.tech)
+[![Portfolio](https://img.shields.io/badge/🌐_Website-chinmayjha.github.io-6366F1?style=for-the-badge)](https://chinmayjha.github.io)
+[![Email](https://img.shields.io/badge/📧_Email-chinmayjha2021@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chinmayjha2021@gmail.com)
 [![Twitter](https://img.shields.io/badge/🐦_Twitter-@itschinmayjha-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/itschinmayjha)
 [![Telegram](https://img.shields.io/badge/✈️_Telegram-@chinmayjha-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/chinmayjha)
 [![CodePen](https://img.shields.io/badge/✏️_CodePen-itschinmayjha-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/itschinmayjha)
